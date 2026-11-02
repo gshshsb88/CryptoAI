@@ -1,0 +1,9 @@
+streamlit
+ccxt
+pandas
+plotly
+numpy
+scikit-learn
+feedparser
+reportlab
+xlsxwriter
